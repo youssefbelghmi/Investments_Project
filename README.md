@@ -1,6 +1,6 @@
 # Investments Project
 
-## Description
+## Description 
 
 This project is designed to provide a comprehensive analysis of investment strategies by integrating multiple financial signals to construct optimal portfolios. The strategies explored include Betting Against Beta (BaB), Momentum (Mom), and Idiosyncratic Volatility (IV). By leveraging data from CRSP and Ken French’s website, the project aims to evaluate the effectiveness of these strategies and to develop industry-neutral portfolios. The analysis involves assessing the performance of these strategies using standard risk factors, examining their exposure to industry risks, and comparing different portfolio construction approaches.
 
